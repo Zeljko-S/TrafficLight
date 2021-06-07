@@ -1,3 +1,6 @@
+Erarbeitet mit Marcus Chvatal, Alex Babakhel und Kevser Akpinar
+https://github.com/Zeljko-S/TrafficLight
+
 # Traffic Light
 
 Das ist das Codetemplate für die zweite Übung in Programmierung 2.
